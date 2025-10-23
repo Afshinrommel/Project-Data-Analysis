@@ -1,0 +1,11 @@
+nltk==3.9.1
+contractions==0.1.73
+opendatasets==0.1.22
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+gensim==4.3.3
+bertopic==0.17.3
+pyLDAvis==3.4.1
+matplotlib==3.10.0
+tqdm==4.67.1
